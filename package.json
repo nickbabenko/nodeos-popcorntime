@@ -1,0 +1,9 @@
+{
+    "name": "nodeos-popcorntime",
+    "version": "0.0.1",
+    "description": "",
+    "author": "Nick Babenko <nickbabenko@me.com>",
+    "dependencies": {
+        "Popcorn-Time": "https://git.popcorntime.io/popcorntime/desktop.git"
+    }
+}
